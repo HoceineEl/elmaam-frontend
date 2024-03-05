@@ -1,13 +1,15 @@
 <template>
   <div>
-    
+    <SectionsHero />
+    <SectionsPopularCourses />
+    <!-- <SectionsCategories /> -->
+    <LazySectionsLatestArticles />
+    <LazySectionsHowItWorks />
+    <LazySectionsTestimonials />
+    <LazySectionsFooter />
   </div>
 </template>
 
-<script lang="ts" setup>
+<script lang="ts" setup></script>
 
-</script>
-
-<style>
-
-</style>
+<style></style>

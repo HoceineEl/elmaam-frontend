@@ -1,13 +1,11 @@
 <template>
-  <div>
+  <div class="min-w-screen">
+    <PartsWeSupportPalestine />
+    <PartsNavBar />
     <slot />
   </div>
 </template>
 
-<script lang="ts" setup>
+<script lang="ts" setup></script>
 
-</script>
-
-<style>
-
-</style>
+<style></style>
